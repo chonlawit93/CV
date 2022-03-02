@@ -1,0 +1,29 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.4rem;
+    color: #4c4c4c;
+}
+
+a{
+    text-decoration: none;
+    color: #4c4c4c;
+}
+i{
+    padding:10px;
+}
+html{
+    font-size: 14px;
+}
+
+img{
+    padding:10px;
+    margin-left: 5px;
+    border-radius: 20px;
+}
+
+#sr{
+    line-height: 2;
+}
+
+
+
